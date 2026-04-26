@@ -19,6 +19,7 @@ I am a CS + Physical Therapy student building technical skills step by step.
 | 06_lists.py | Lists, append, indexing | ✅ |
 | 07_loops.py | for loops | ✅ |
 | 08_mini_project.py | Mini café program — all concepts combined | ✅ |
+| 09_health_weight_checker.py | Patient weight checker — for loop, if/else | ✅ |
 
 ---
 
@@ -38,6 +39,7 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - Lists — append, indexing, loops
 - for loops
 - First mini project combining all concepts
+- * Health data project — patient weight analysis
 
 ---
 
