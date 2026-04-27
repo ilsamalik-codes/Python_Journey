@@ -20,10 +20,7 @@ print("\n--- Example 2 ---")
 print("100 + 50 =", add_numbers(100, 50))
 
 
-# --- YOUR TURN! ---
-# 1. Write a function called 'multiply_numbers' that takes two arguments (a, b).
-# 2. Make it return the result of a * b.
-# 3. Call your function with two numbers and print the result!
+
 
 # Define your function here:
 def multiply_numbers(a,b):
