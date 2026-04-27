@@ -1,5 +1,3 @@
-# Python_Journey
-Python basics practice — variables, loops, functions, dictionaries | BSCS student
 # Python Journey 🐍
 
 Python practice files written as I learn programming from scratch.  
@@ -19,7 +17,8 @@ I am a CS + Physical Therapy student building technical skills step by step.
 | 06_lists.py | Lists, append, indexing | ✅ |
 | 07_loops.py | for loops | ✅ |
 | 08_mini_project.py | Mini café program — all concepts combined | ✅ |
-| 09_health_weight_checker.py | Patient weight checker — for loop, if/else | ✅ | 10_functions.py|Functions — defining and calling|✅
+| 09_health_weight_checker.py | Patient weight checker — for loop, if/else | ✅
+| 10_functions.py|Functions — defining and calling|✅
 | 11_functions_return.py|Functions with return values|✅
 
 
@@ -41,9 +40,9 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - Lists — append, indexing, loops
 - for loops
 - First mini project combining all concepts
-- * Health data project — patient weight analysis
-  * functions
-  * function_return
+- Health data project — patient weight analysis
+- Functions
+- Function_return
 
 ---
 
