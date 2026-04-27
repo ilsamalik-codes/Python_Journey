@@ -27,12 +27,6 @@ print("\n--- Example 2 ---")
 say_hello_to("Alice")
 say_hello_to("Bob")
 
-
-# --- YOUR TURN! ---
-# Try writing a function called 'greet_student' that expects a name 
-# inside the parentheses, and prints out a welcome message for them.
-# After defining it, call your function with a name of your choice!
-
 # 1. Define your function here:
 def greet_student(name):
     print ("hello ", name)
