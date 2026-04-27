@@ -19,13 +19,15 @@ I am a CS + Physical Therapy student building technical skills step by step.
 | 06_lists.py | Lists, append, indexing | ✅ |
 | 07_loops.py | for loops | ✅ |
 | 08_mini_project.py | Mini café program — all concepts combined | ✅ |
-| 09_health_weight_checker.py | Patient weight checker — for loop, if/else | ✅ |
+| 09_health_weight_checker.py | Patient weight checker — for loop, if/else | ✅ | 10_functions.pyFunctions — defining and calling✅
+| 11_functions_return.pyFunctions with return values✅
+
 
 ---
 
 ## Coming Soon
 
-- Functions and return values
+
 - Dictionaries
 - Jupyter Notebook — full basics practice
 
@@ -40,6 +42,8 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - for loops
 - First mini project combining all concepts
 - * Health data project — patient weight analysis
+  * functions
+  * function_return
 
 ---
 
