@@ -20,14 +20,13 @@ I am a CS + Physical Therapy student building technical skills step by step.
 | 09_health_weight_checker.py | Patient weight checker — for loop, if/else | ✅
 | 10_functions.py|Functions — defining and calling|✅
 | 11_functions_return.py|Functions with return values|✅
+| 12_dictionaries.py | Dictionaries |✅
 
 
 ---
 
 ## Coming Soon
 
-
-- Dictionaries
 - Jupyter Notebook — full basics practice
 
 ---
@@ -43,6 +42,7 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - Health data project — patient weight analysis
 - Functions
 - Function_return
+- Dictionaries
 
 ---
 
