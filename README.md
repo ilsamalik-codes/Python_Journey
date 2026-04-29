@@ -21,13 +21,7 @@ I am a CS + Physical Therapy student building technical skills step by step.
 | 10_functions.py|Functions — defining and calling|✅
 | 11_functions_return.py|Functions with return values|✅
 | 12_dictionaries.py | Dictionaries |✅
-
-
----
-
-## Coming Soon
-
-- Jupyter Notebook — full basics practice
+| python_basics.ipynb | Jupyter Notebook |✅
 
 ---
 
@@ -43,6 +37,7 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - Functions
 - Function_return
 - Dictionaries
+- Python_basics_notebook
 
 ---
 
