@@ -22,6 +22,8 @@ I am a CS + Physical Therapy student building technical skills step by step.
 | 11_functions_return.py|Functions with return values|✅
 | 12_dictionaries.py | Dictionaries |✅
 | python_basics.ipynb | Jupyter Notebook |✅
+| python_for_ai.ipynb | Jupyter Notebook |✅
+| numpy_basics.ipynb | Jupyter Notebook |✅
 
 ---
 
@@ -38,7 +40,8 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - Function_return
 - Dictionaries
 - Python_basics_notebook
-
+- Python_for_ai_notebook
+- numpy_basics_notebook
 ---
 
 ## About
@@ -51,4 +54,4 @@ This repository tracks my Python learning progress from the very beginning.
 
 ---
 
-*Last updated: May 2026*
+*Last updated: JULY 2026*
