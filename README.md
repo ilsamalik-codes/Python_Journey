@@ -42,7 +42,6 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - Python_basics_notebook
 - Python_for_ai_notebook
 - numpy_basics_notebook
-
 ---
 
 ## About
@@ -55,4 +54,4 @@ This repository tracks my Python learning progress from the very beginning.
 
 ---
 
-*Last updated: july 2026*
+*Last updated: JULY 2026*
