@@ -24,6 +24,8 @@ I am a CS + Physical Therapy student building technical skills step by step.
 | python_basics.ipynb | Jupyter Notebook |✅
 | python_for_ai.ipynb | Jupyter Notebook |✅
 | numpy_basics.ipynb | Jupyter Notebook |✅
+| pandas .ipynb | Jupyter Notebook |✅
+
 
 ---
 
@@ -42,6 +44,7 @@ I am a CS + Physical Therapy student building technical skills step by step.
 - Python_basics_notebook
 - Python_for_ai_notebook
 - numpy_basics_notebook
+- pandas_notebook
 ---
 
 ## About
